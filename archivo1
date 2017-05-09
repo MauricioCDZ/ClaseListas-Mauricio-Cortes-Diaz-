@@ -10,7 +10,6 @@ par=[2,4,3]
 pares(par)
 print(Mayor(par))
 
-
 j=[5,4,6,3,5,3,2,6,8,3,712,5,7,34,6,]
 Mayor(j)
 print(Mayor(j))
