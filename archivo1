@@ -1,2 +1,11 @@
 u=[2,5,3]
 Mayor(u)
+print(Mayor(u))
+
+lista2=[2,5,3,-3,-2,5,8]
+Negativos(lista2)
+print(Negativos(lista2))
+
+par=[2,4,3]
+pares(par)
+print(Mayor(par))
